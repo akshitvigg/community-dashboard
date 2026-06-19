@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781753540449,
+  "updatedAt": 1781841269666,
   "groups": [
     [
       "2026-06-12",
@@ -641,35 +641,6 @@
           "name": null,
           "title": "Labeled issue #621 - UI",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/621",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-06-05",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #7391",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7391",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #7472",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7472",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "SantamRC",
-          "name": null,
-          "title": "New Project Build",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/617",
           "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
           "points": 2
         }
